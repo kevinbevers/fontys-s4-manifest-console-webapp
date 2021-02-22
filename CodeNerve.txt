@@ -1,5 +1,5 @@
 <span id="a">MacBook-Pro-Of-Kevin@kevinbevers</span>:<span id="b">~</span><span id="c">$</span> cd Uni/Fontys/Semester4
-<span id="a">MacBook-Pro-Of-Kevin@kevinbevers</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->manifest.txt<br/><br/>
+<span id="a">MacBook-Pro-Of-Kevin@kevinbevers</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->manifest.txt<br/>
 Fontys S4 Creative technology, "<span id="k">Manifesto</span>". <!-- sjkfhskjf -->
  <span>   
     _      _  __                 _ _         _                 _                    _               _                     _       _             _       _     _    __                                 _ 
